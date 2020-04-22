@@ -29,18 +29,35 @@ text = "www.kwyse.com"
 enable = true
 
 [[params.skills.list]]
-title = "Languages"
+title = "Technical"
 [[params.skills.list.items]]
 details = "Java/Scala"
 [[params.skills.list.items]]
 details = "Rust"
 [[params.skills.list.items]]
 details = "C/C++"
+[[params.skills.list.items]]
+details = "Go"
+[[params.skills.list.items]]
+details = "Python/Ruby"
+[[params.skills.list.items]]
+details = "Akka"
+[[params.skills.list.items]]
+details = "AWS/Terraform"
 
 [[params.skills.list]]
 title = "Design"
 [[params.skills.list.items]]
 details = "Systems architecture"
+[[params.skills.list.items]]
+details = "Distributed systems"
+
+[[params.skills.list]]
+title = "Methods"
+[[params.skills.list.items]]
+details = "TDD/BDD"
+[[params.skills.list.items]]
+details = "Reactive programming"
 
 [params.education]
 enable = true

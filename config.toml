@@ -65,7 +65,7 @@ enable = true
 [[params.education.list]]
 degree = "BSc Computer Science with Software Engineering"
 university = "Brunel University London"
-dates = "2011 - 2015"
+dates = "2011 – 2015"
 
 [params.languages]
 enable = true
@@ -83,13 +83,13 @@ enable = true
 
 [[params.experience.list]]
 title = "Senior Software Engineer"
-dates = "July 2018 - Present"
+dates = "July 2018 – Present"
 company = "FIS (formerly Worldpay)"
 details = "We are building the next generation payments gateway for organisations large and small. My team builds backend alternative payment and customer due diligence services in Scala using a test-first approach and a focus on fully-automated infrastructure operations."
 
 [[params.experience.list]]
 title = "Software Engineer"
-dates = "May 2017 - July 2018"
+dates = "May 2017 – July 2018"
 company = "Curve"
 details = "Curve was the card to end us carrying multiple credit and debit cards. The card itself and mobile app communicated with the backend services my team wrote in PHP and Go. Our codebases encompassed payment processing, reporting, analytics, and fraud detection.\n\nSome of my focal points were:"
 [[params.experience.list.items]]
@@ -101,7 +101,7 @@ details = "Designing our move to a microservices-based architecture"
 
 [[params.experience.list]]
 title = "Technology Analyst, Credit Risk"
-dates = "July 2015 - April 2017"
+dates = "July 2015 – April 2017"
 company = "Goldman Sachs"
 details = "The credit risk technology team was comprised of forecasting and reporting. As part of the forecasting division, my team wrote tooling to perform ad-hoc pricing adjustments, web-apps to expose our tooling to the quantitative analysts, and responded to regulation mandates.\n\nMy tenure saw me:"
 [[params.experience.list.items]]
@@ -111,7 +111,7 @@ details = "Build a bespoke heat map for our server farms that was used by the op
 
 [[params.experience.list]]
 title = "QA Engineer"
-dates = "August 2013 - August 2014"
+dates = "August 2013 – August 2014"
 company = "Chelsea Apps Factory"
 details = "We built enterprise mobile apps for the likes of Allen & Overy, Tesco, and EDF Energy. QA was brought in from the initial product envisioning and writing requirements with the business analysis team, through to fleshing out stories with the development and design teams.\n\nHighlights of my internship included:"
 [[params.experience.list.items]]

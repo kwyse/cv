@@ -1,4 +1,4 @@
-baseURL = "http://www.kwyse.com/cv/"
+baseURL = "https://www.kwyse.com/cv/"
 languageCode = "en"
 title = "Krishan Wyse"
 theme = "hugo-devresume-theme"

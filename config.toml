@@ -23,7 +23,7 @@ location = "London, UK"
 [[params.contact.list]]
 icon = "fas fa-globe"
 url = "https://www.kwyse.com"
-text = "www.kwyse.com"
+text = "kwyse.com"
 
 [params.footer]
 copyright = "Krishan Wyse"
@@ -42,19 +42,13 @@ enable = true
 [[params.skills.list]]
 title = "Technical"
 [[params.skills.list.items]]
-details = "Java/Scala"
+details = "Java/Scala/Akka"
 [[params.skills.list.items]]
 details = "Rust"
 [[params.skills.list.items]]
 details = "C/C++"
 [[params.skills.list.items]]
-details = "Go"
-[[params.skills.list.items]]
 details = "Python/Ruby"
-[[params.skills.list.items]]
-details = "Akka"
-[[params.skills.list.items]]
-details = "SQL/PostgreSQL/DB2"
 [[params.skills.list.items]]
 details = "AWS/Terraform"
 
@@ -100,7 +94,7 @@ level = "Native"
 
 [params.summary]
 enable = true
-text = "Software engineer with six years of professional experience holding a first-class honours degree in computer science.  Keen reader, writer, photographer, cook, explorer, and tinkerer.  Find me on GitHub to see what I'm working on.  Check out my blog to see how I think."
+text = "Software engineer with seven years of professional experience holding a first-class honours degree in computer science.  Keen reader, writer, photographer, cook, explorer, and tinkerer.  Follow me on Twitter to see what I'm working on."
 
 [params.experience]
 enable = true
@@ -109,7 +103,7 @@ enable = true
 title = "Senior Software Engineer"
 dates = "July 2018 – Present"
 company = "FIS (formerly Worldpay)"
-details = "We are building the next generation payments gateway for organisations large and small. My team craft backend alternative payment solutions in Scala using a test-first approach and fully-automated infrastructure with a focus on resilience."
+details = "We build the next generation payments gateway for organisations large and small. My team craft backend alternative payment solutions in Scala using a test-first approach and fully-automated infrastructure with a focus on resilience."
 
 [[params.experience.list]]
 title = "Software Engineer"
@@ -143,18 +137,13 @@ details = "Introducing automated testing for the front-end web applications with
 [[params.experience.list.items]]
 details = "Documenting and formalising the training regime on QA processes"
 
-
-[params.projects]
-enable = true
-
-[[params.projects.list]]
-title = "Personal blog"
-meta = "Website"
-tagline = "I deliver educational content on software development, computer science, tools, and game developement, but I also branch into other topics like health and wellness."
-
 [params.social]
 enable = true
 
+[[params.social.list]]
+icon = "fab fa-twitter-square"
+url = "//twitter.com/KrishanWyse"
+title = "KrishanWyse"
 [[params.social.list]]
 icon = "fab fa-github-square"
 url = "//github.com/kwyse"

@@ -13,7 +13,7 @@ textPrimaryColor = "#292929"
 [params.profile]
 enable = true
 name = "Krishan Wyse"
-tagline = "Software Engineer and Commerce Technologist"
+tagline = "Software Engineer"
 avatar = "avatar.png"
 
 [params.contact]
@@ -42,15 +42,15 @@ enable = true
 [[params.skills.list]]
 title = "Technical"
 [[params.skills.list.items]]
-details = "Java/Scala/Akka"
+details = "Python"
 [[params.skills.list.items]]
 details = "Rust"
 [[params.skills.list.items]]
-details = "C/C++"
+details = "Scala"
 [[params.skills.list.items]]
-details = "Python/Ruby"
+details = "C++"
 [[params.skills.list.items]]
-details = "AWS/Terraform"
+details = "AWS"
 
 [[params.skills.list]]
 title = "Design"
@@ -85,16 +85,9 @@ title = "Lightbend Certified Reactive Architect"
 meta = "Expires December 2022"
 provider = "Lightbend, Inc."
 
-[params.languages]
-enable = true
-
-[[params.languages.list]]
-name = "English"
-level = "Native"
-
 [params.summary]
 enable = true
-text = "Software engineer with seven years of professional experience holding a first-class honours degree in computer science.  Keen reader, writer, photographer, cook, explorer, and tinkerer.  Follow me on Twitter to see what I'm working on."
+text = "Software engineer with seven years of professional experience holding a first-class honours degree in computer science.  Keen reader, writer, photographer, cook, explorer, and tinkerer."
 
 [params.experience]
 enable = true
@@ -140,14 +133,6 @@ details = "Documenting and formalising the training regime on QA processes"
 [params.social]
 enable = true
 
-[[params.social.list]]
-icon = "fab fa-twitter-square"
-url = "//twitter.com/KrishanWyse"
-title = "KrishanWyse"
-[[params.social.list]]
-icon = "fab fa-github-square"
-url = "//github.com/kwyse"
-title = "kwyse"
 [[params.social.list]]
 icon = "fab fa-linkedin"
 url = "//linkedin.com/in/krishanwyse"
